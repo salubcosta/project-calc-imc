@@ -1,16 +1,17 @@
 # project-calc-imc
+
 This is a simple project to calculate IMC builded with purpose study.
 
-# Project will be create to device mobile with support of the React Native 
+ScreenShots of the app bellow:
 
-# Sample Snack app
+<img src='https://user-images.githubusercontent.com/4422492/80289012-36fe0680-8712-11ea-8f30-c4669647dcd5.png' width='200' />
+<hr />
+<img src='https://user-images.githubusercontent.com/4422492/80289014-37969d00-8712-11ea-9e33-20d4a8fcb38f.png' width='200' />
+<hr />
+<img src='https://user-images.githubusercontent.com/4422492/80289015-382f3380-8712-11ea-8faf-9a61dcbf0ae9.png' width='200' />
+<hr />
+<img src='https://user-images.githubusercontent.com/4422492/80289016-382f3380-8712-11ea-9654-f73a8768e11c.png' width='200' />
+<hr />
+<img src='https://user-images.githubusercontent.com/4422492/80289018-38c7ca00-8712-11ea-9f4b-3f9be9869967.png' width='200' />
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+This project make part of the course <a href='https://github.com/DevSamurai' target='_blank'>DevSamurai</a>
